@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Preeyal!
+I'm a passionate and curious Frontend Developer with a strong interest in building interactive, user-friendly web applications. Currently pursuing my studies and gaining hands-on experience through internships, I'm also on a focused journey to become a Full Stack Developer and land a top-tier developer role.
 
-<!--
-**preeyalr/preeyalr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I'm Working On
+🌐 Building projects using React, Vite, and Tailwind CSS
+🛠️ Integrating Java Spring Boot backends with frontend UIs
+🛍️ Crafting a mini e-commerce project called Snackverse
+📚 Improving my DSA skills for coding interviews
 
-Here are some ideas to get you started:
+💡 Goals
+Learn DevOps, System Design, and advanced backend concepts 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Tech Stack
+Languages: JavaScript, Java, C++
+Frontend: React, HTML5, CSS3, Tailwind CSS, Vite
+Backend: Java Spring Boot, Node.js (learning)
+Database: MySQL, MongoDB
+Tools: Git & GitHub, VS Code, Postman
